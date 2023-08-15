@@ -1,0 +1,6 @@
+[run]
+source = Budget
+omit = 
+    tests/*
+    autoapp.py
+
