@@ -1,6 +1,6 @@
-# Budgeter
+# Budgetter
 
-Web app for bank statement reports
+Tracks spending habits
 
 ## Docker Quickstart
 
