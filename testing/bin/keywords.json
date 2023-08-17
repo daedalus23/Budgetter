@@ -1,0 +1,79 @@
+{
+    "Other Debts": [
+        "AMZN Mktp", "ROSS STORES", "TJMAXX", "THE HOME DEPOT", "BEST BUY", "GREAT CLIPS",
+        "GOODWILL", "OFFICE DEPOT", "TARGET", "FINAL SWITCHBACK", "FEDEX", "AUTOZONE"
+    ],
+
+    "Paychecks": [
+        "PAYROLL", "REWARD REDEMPTION", "CREDIT CARD CASH ADVANCE", "Deposit - EVATEC NA, INC.",
+        "Deposit - VAED TREAS 310", "Deposit - HUMAN SERVICES"
+    ],
+
+    "Bills": ["TMOBILE", "ZIPLY FIBER", "PORTLAND GENERAL ELECTRIC"],
+
+    "Rent/Mortgage": ["Pallas Apartment Home", "ARBOR RIDGE GREENSBORO NC"],
+
+    "Groceries": ["FRED-MEYER", "NEW SEASONS", "WINCO", "Migros"],
+
+    "Other Obligations": ["ATM Withdrawal", "2905 SW CEDAR HILLS BEAVERTON OR", "BNC SERVICES", "RON TONKIN"],
+
+    "Credit Card Payments": ["Transfer to Credit Card", "AMEX EPAYMENT", "MOB PAYMENT RECEIVED"],
+
+    "Fun/Entertainment": [
+        "AMC ", "FANDANGO", "TOP GOLF", "KINGPINS", "BUTLER AMUSEMENTS", "ESCAPETECH", "PITTOCK MANSION",
+        "TOPGOLF", "SUPERPLAY", "SKIBOWL", "Prime Video", "STUMPTOWN ESCAP", "DAVE & BUSTERS", "OMSI.EDU",
+        "BIG ALS"
+    ],
+
+    "Restaurants": [
+        "NOODLE HOUSE", "PF CHANGS", "NIKKI SUSHI", "INTEL RA4 CAFE", "MIO SUSHI", "RED ROBIN", "PASTINI",
+        "OUTBACK", "MCMENAMINS", "REEDVILLE"
+    ],
+
+    "Other Wants": [
+        "SALT & STRAW", "IPSY GLAM BAG", "76", "SQ *OREGON BEVERAGE", "Voodoo Doughnut",
+        "NikePOS_US", "FRIENDS OF THE HILLSBORO", "Amazon.com", "14641 SW MILLIKAN W BEAVERTON OR",
+        "217 BOURBON ST. NEW ORLEANS LA", "CVS CarePass", "BARNES & NOBLE", "Etsy.com", "All-Clad"
+    ],
+
+    "Fast Food": [
+        "OLO VG", "CHICK-FIL-A", "BURGER KING", "KFC", "THE MOCKING BIRD", "ARBYS", "F15 CAFE ALOHA",
+        "IHOP", "INTEL RA3 CAFE", "ELEPHANTS DELICATESS", "FIREHOUSE", "TACO BELL", "VIRTUOUS PIE", "Work n Eat",
+        "MCDONALD", "VEGGIE GRILL", "POPEYES", "Killer Burger", "Noodle World", "NOODLES & CO", "IN N OUT"
+    ],
+
+    "Gas": ["FRED M FUEL", "TRIPLE 7", "CHEVRON", "7-ELEVEN", "SHELL OIL", "ARCO", "EXXONMOBIL"],
+
+    "Animals": ["CHEWY.COM", "PETCO", "PETSMART", "VISTAPETHOSPITAL"],
+
+    "Insurance": ["GEICO"],
+
+    "Credit Card Interest": ["INTEREST CHARGE"],
+
+    "Auto Payment": ["JPMorgan Chase", "TOYOTA FINANCIAL RETAIL"],
+
+    "Software Sub": [
+        "PwP CHATGPT SUB", "SYMBOLAB.COM", "Prime Video Channels", "CHEGG ORDER", "FLATLY", "AMCREST",
+        "CLOUDFLARE", "Amazon Prime", "YouTubePremium", "MATHWAY", "NordVPN", "Twitch", "SPOTIFY",
+        "APPLE.COM/BILL", "HOME ASSISTANT", "REAL DEBRID", "AMZN DIGITAL", "GODADDY.COM", "PLEXINCPASS",
+        "JetBrains Americas"
+    ],
+
+    "Travel": [
+        "ALASKA AIR"
+    ],
+
+    "Hotel": [
+        "AIRBNB", "HYATT", "EMBASSY"
+    ],
+
+    "Snacks": [
+        "TROY MI", "POOR YOUR NW TRAV PORTLAND", "Sweet cheeks", "SCHWIETERTS CONES", "STARBUCKS"
+    ],
+
+    "Subscription (Entertainment)": "",
+
+    "Subscription (Software)": "",
+
+    "Health/Beauty": ""
+}

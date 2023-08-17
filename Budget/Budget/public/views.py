@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """Public section, including homepage and signup."""
-import pandas as pd
 
 from flask import (
     Blueprint,
@@ -77,15 +76,3 @@ def about():
     """About page."""
     form = LoginForm(request.form)
     return render_template("public/about.html", form=form)
-
-
-@blueprint.route('/upload', methods=['GET', 'POST'])
-def upload_file():
-    if request.method == 'POST':
-        uploaded_file = request.files['file']
-        if uploaded_file.filename != '':
-            data = pd.read_csv(uploaded_file)
-            # Process the data as needed
-            # For now, let's just return the first 5 rows as an example
-            return data.head().to_html()
-    return render_template("public/home.html")

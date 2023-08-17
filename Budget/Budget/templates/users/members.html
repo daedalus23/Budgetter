@@ -5,5 +5,17 @@
         <h1>Welcome {{ current_user.username }}</h1>
         <h3>This is the members-only page.</h3>
     </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4">
+          <h2><i class="fa-solid fa-upload_csv"></i> Upload CSV File</h2>
+          <form action="/" method="post" enctype="multipart/form-data">
+            {{ form.hidden_tag() }}
+            {{ form.csv_file.label }} {{ form.csv_file() }}
+            {{ form.submit() }}
+          </form>
+        </div>
+      </div><!-- /.row -->
+    </div>
 {% endblock %}
 
