@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T04:42:13.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ODCKeutO0A9r3EeDLFuH" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T04:49:04.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IlayGmCYJRFc6zI6ESTj" version="24.6.3" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="3630" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4703" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,40 +137,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-85" value="EDRS.DataBookStreamer" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="75.92" width="190" height="97" as="geometry" />
+          <mxGeometry x="-760" y="88.5" width="190" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-86" value="Pulled from Analytics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-85">
           <mxGeometry y="26" width="190" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1276.25" y="-3.0799999999999983" as="targetPoint" />
+            <mxPoint x="-946.25" y="9.500000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-87" value="EDRS.DataBookPlayer" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1363.75" y="72.92" width="175" height="100" as="geometry" />
+          <mxGeometry x="-1033.75" y="85.5" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-88" value="Read databook file and provide it to opc server" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-87">
           <mxGeometry y="26" width="175" height="74" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-90">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1276.25" y="176.92000000000002" as="targetPoint" />
+            <mxPoint x="-946.25" y="189.50000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-90" value="EDRS.Trainer.OPCserver" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="241.92000000000002" width="187.5" height="100" as="geometry" />
+          <mxGeometry x="-1040" y="254.50000000000003" width="187.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-91" value="LSTM model to provide predicted values.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-90">
           <mxGeometry y="26" width="187.5" height="74" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1500" y="336.92" as="targetPoint" />
+            <mxPoint x="-1170" y="349.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-99" value="EDRS.Server" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1640" y="236.92000000000002" width="160" height="110" as="geometry" />
+          <mxGeometry x="-1310" y="249.50000000000003" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-100" value="Interface with OPC collect config &amp;amp; tags" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-99">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
@@ -179,19 +179,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-102" value="EDRS.Model" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="69.92" width="160" height="100" as="geometry" />
+          <mxGeometry x="-1600" y="82.5" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-103" value="LSTM model to provide predicted values.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-102">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-104" value="EDRS.RiskDectect" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="-103.08" width="160" height="97" as="geometry" />
+          <mxGeometry x="-1600" y="-90.5" width="160" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-106" value="Configured thresholds for tags, mins, maxs.&lt;div&gt;Threshold alerts sends halt or run dummy command&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" vertex="1" parent="jNz-noghiVYLugenPzz1-104">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-107" value="EDRS.Trainer" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-2190" y="72.92" width="160" height="97" as="geometry" />
+          <mxGeometry x="-1860" y="85.5" width="160" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-108" value="&lt;span style=&quot;background-color: initial;&quot;&gt;real data trainer&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-107">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-110" value="EDRS.DataBase" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="236.92000000000002" width="160" height="97" as="geometry" />
+          <mxGeometry x="-1600" y="249.50000000000003" width="160" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-111" value="ToolConfig, tags, histroy, model" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-110">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
@@ -210,7 +210,7 @@
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-108" target="jNz-noghiVYLugenPzz1-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1940" y="130.92000000000002" as="targetPoint" />
+            <mxPoint x="-1610" y="143.50000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.019;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-100" target="jNz-noghiVYLugenPzz1-111">
@@ -220,14 +220,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-124" value="EDRS.UI.Trainer" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-1356.25" y="-103.08" width="160" height="97" as="geometry" />
+          <mxGeometry x="-1026.25" y="-90.5" width="160" height="97" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-125" value="See trends, set thresholds" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="jNz-noghiVYLugenPzz1-124">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.47;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-86" target="jNz-noghiVYLugenPzz1-88">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1180" y="134.34857142857157" as="targetPoint" />
+            <mxPoint x="-850" y="146.9285714285716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jNz-noghiVYLugenPzz1-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="jNz-noghiVYLugenPzz1-106" target="jNz-noghiVYLugenPzz1-125">
